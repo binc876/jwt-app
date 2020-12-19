@@ -1,3 +1,13 @@
+Nama  : Masrurotul Lailiyah
+NIM   : 185150701111003
+
+Modul Otentikasi dengan JSON Web Token
+- Membuat projek baru dan membuat database baru
+- Melakukan aktivasi fitur eloquennt,Facades Middleware Auth
+- Membuat migration dan mendeklrasikan apa saja yang diinputkan kedalam tabel pada database dan dengan php artisan migrate field tersebut masuk ke dalam tabel
+- Membuat konfigurasi controller dimana isi UserController berisi beberapa function seperti jwt untuk token jwt , login, register, logout, seerta menampilkan user
+
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
